@@ -5,7 +5,7 @@
 
 ## `Dockerfile` links
 
-- [`0.0.3`,`latest`(Dockerfile)](https://github.com/sacloud/packer-for-sakuracloud-docker/tree/master/0.0.3/)
+- [`0.0.4`,`latest`(Dockerfile)](https://github.com/sacloud/packer-for-sakuracloud-docker/tree/master/0.0.4/)
 
 ## 使い方
 

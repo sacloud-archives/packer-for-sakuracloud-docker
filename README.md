@@ -3,10 +3,6 @@
 
 [Packer for さくらのクラウド](https://github.com/sacloud/packer-builder-sakuracloud)用Dockerイメージ
 
-## `Dockerfile` links
-
-- [`0.1.3`,`latest`(Dockerfile)](https://github.com/sacloud/packer-for-sakuracloud-docker/tree/master/0.1.3/) -> `packer:v1.1.1`
-
 ## 使い方
 
 ### 起動コマンド書式

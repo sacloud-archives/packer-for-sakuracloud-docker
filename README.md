@@ -1,3 +1,4 @@
+:warning: **[sacloud/packer-plugin-sakuracloud](https://github.com/sacloud/packer-plugin-sakuracloud)へ移行されました**
 
 # Packer for さくらのクラウド
 
